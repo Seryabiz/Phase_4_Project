@@ -1,1 +1,4 @@
 # Phase_4_Project
+# SENTIMENT ANALYSIS
+This project seeks to analyze and develop a predictive model of the sentiments derived from tweets by random people about google products and Apple. The emotions from the tweets are either positive, negative or neutral. We seek to create a binary classifier model and a multi-class model. The binary classifier will determine whether a tweet is positive or negative towards a product while the multi-class will include the neutral emotion. The natural language processing technique enables us easily determine whether a post depicts satisfaction or dissatisfaction without having to go through the entire posts and this makes the process scalable,and that is the end goal for this project.
+To develop the model we used the [data](https://data.world/crowdflower/brands-and-product-emotions) from data world collected by CrowdFlower.
